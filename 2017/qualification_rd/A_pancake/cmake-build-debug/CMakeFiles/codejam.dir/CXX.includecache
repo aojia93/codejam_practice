@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aojiazhao/Desktop/cs practice/codejam/2017/qualification_rd/A_pancake/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+

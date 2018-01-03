@@ -1,0 +1,3 @@
+/Users/aojiazhao/Desktop/cs practice/codejam/2017/qualification_rd/A_pancake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aojiazhao/Desktop/cs practice/codejam/2017/qualification_rd/A_pancake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aojiazhao/Desktop/cs practice/codejam/2017/qualification_rd/A_pancake/cmake-build-debug/CMakeFiles/codejam.dir
